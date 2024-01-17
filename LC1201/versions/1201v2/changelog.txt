@@ -1,0 +1,15 @@
+Resource Packs:
++ Added Better Zombies (by Noviem)
+- Removed bushy leaves from Nautilus
+
+Mods:
++ Added Wakes (by Goby56)
++ Added Dynamic Surroundings: Fabric Edition (by OreCruncher)
++ Added Better Clouds (by qendolin)
++ Added Essential (by SparkUniverse)
++ Added Chest Tracker (by JackFred2)
++ Added Modpack Update Checker (by Jab125)
++ Added BetterShields (by uku)
++ Added BactroMod (Bactrosaurus)
++ Added UkuLib (by uku)
+- Removed e4mc (Replaced)
