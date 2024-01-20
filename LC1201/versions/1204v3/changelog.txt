@@ -1,0 +1,18 @@
+Config:
++ Updated some keyboard shortcuts. (see common/useful shortcuts in image gallery on Modrinth page)
+
+Resource Packs:
+- Removed Legacies Music (Replaced)
+
+Mods:
++ Added Serious Player Animations (by McVader)
++ Added Player Animator (by KosmX)
++ Added Stonecutter GUI Remastered (by A5ho9999)
++ Added Adventure Redefined (by CircuitLord)
++ Added Death Log (by glisco)
++ Added Build Guide (by brentmaas)
++ Added Blur (by Motschen)
++ Added Make Bubbles Pop (by Tschipcraft)
++ Added Simple Shulker Preview (by Bvengo)
++ Added Shulker Box Tooltip (by MisterPeModder)
++ Added Not Enough Animations (by tr7zw)
