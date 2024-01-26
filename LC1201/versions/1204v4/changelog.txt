@@ -1,0 +1,8 @@
+Mods:
++ Added Pick up notifier (by Fuzs)
++ Added Puzzles Lib (by Fuzs)
++ Updated all mods to their latest versions
+
+Resource Packs:
++ Added Icons (by WeNAN)
++ Added Icons Advertisement Removal (by vexcenot)
